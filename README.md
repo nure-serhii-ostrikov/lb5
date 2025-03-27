@@ -1,2 +1,2 @@
 # Application screenshot
-![./image.png]
+![img](image.png)
